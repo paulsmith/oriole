@@ -1,0 +1,5 @@
+dhcpd_flags=em1
+nsd_flags=""
+pkg_scripts="vnstatd"
+smtpd_flags=NO
+unbound_flags=""

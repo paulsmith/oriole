@@ -1,0 +1,3 @@
+dhcp
+description "WAN uplink"
+up
