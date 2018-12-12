@@ -1,6 +1,8 @@
 dhcpd_flags=em1
+httpd_flags=
 nsd_flags=""
 pkg_scripts="vnstatd"
 smtpd_flags=NO
 unbound_flags=""
 tftpd_flags="/tftpboot"
+shlib_dirs="/usr/lib:/usr/X11R6/lib:/usr/local/lib"
