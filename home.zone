@@ -2,7 +2,7 @@ $ORIGIN home.
 $TTL 86400
 
 @ IN SOA ns1.home. admin.home. (
-  2018083000 ; serial number
+  2019011400 ; serial number
   28800 ; refresh
   7200 ; retry
   864000 ; expire
@@ -18,5 +18,6 @@ pauls-mbp       IN A 192.168.1.2
 wifi-ap         IN A 192.168.1.3
 ps4             IN A 192.168.1.4
 bunny           IN A 192.168.1.5
+pihole          IN A 192.168.1.5
 wg              IN A 192.168.1.6
 paulvo          IN A 192.168.1.90
