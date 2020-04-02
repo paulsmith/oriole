@@ -2,7 +2,7 @@ $ORIGIN home.
 $TTL 86400
 
 @ IN SOA ns1.home. admin.home. (
-  2019120600 ; serial number
+  2020040200 ; serial number
   28800 ; refresh
   7200 ; retry
   864000 ; expire
@@ -21,5 +21,6 @@ bunny           IN A 192.168.1.5
 pihole          IN A 192.168.1.5
 wg              IN A 192.168.1.6
 pidp11          IN A 192.168.1.7
+switch          IN A 192.168.1.8
 paulvo          IN A 192.168.1.90
 pumpkin         IN A 192.168.1.163

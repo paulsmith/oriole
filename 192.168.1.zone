@@ -2,7 +2,7 @@ $ORIGIN 1.168.192.in-addr.arpa.
 $TTL 86400
 
 @ IN SOA ns1.home. admin.home.lan. (
-  2019120600 ; serial number
+  2020040200 ; serial number
   28800 ; refresh
   7200 ; retry
   864000 ; expire
@@ -17,5 +17,6 @@ $TTL 86400
 4    IN		PTR	ps4.home.
 5    IN		PTR	bunny.home.
 7    IN     PTR pidp11.home.
+8    IN     PTR switch.home.
 90   IN		PTR	paulvo.home.
 163  IN     PTR pumpkin.home.
